@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ParkingLot>
+	<ParkingSlot slotNumber="1">
+		<Available>true</Available>		
+		<SlotPosition>A1</SlotPosition>
+	</ParkingSlot>
+	<ParkingSlot slotNumber="2">
+		<Available>true</Available>		
+		<SlotPosition>A2</SlotPosition>
+	</ParkingSlot>
+	<ParkingSlot slotNumber="3">
+		<Available>true</Available>		
+		<SlotPosition>A3</SlotPosition>
+	</ParkingSlot>
+</ParkingLot>

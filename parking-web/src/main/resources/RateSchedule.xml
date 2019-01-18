@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RateOfSchedule>
+	<RateSchedule>
+		<schedule>0 - 14</schedule>
+		<price>0.5</price>
+	</RateSchedule>
+
+	<RateSchedule>
+		<schedule>15 - 29</schedule>
+		<price>2.0</price>
+	</RateSchedule>
+
+	<RateSchedule>
+		<schedule>30 - 60</schedule>
+		<price>5.0</price>
+	</RateSchedule>
+
+	<RateSchedule>
+		<schedule>60 - 240</schedule>
+		<price>20</price>
+	</RateSchedule>
+
+	<RateSchedule>
+		<schedule>241 - 1440</schedule>
+		<price>50</price>
+	</RateSchedule>
+
+</RateOfSchedule>

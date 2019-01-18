@@ -1,0 +1,280 @@
+2019-01-15 22:45:15 INFO  PaymentFrame:142 - --------------
+2019-01-15 22:45:15 INFO  PaymentFrame:143 - <--Payment information-->
+2019-01-15 22:45:15 INFO  PaymentFrame:144 - Ticket # :1
+2019-01-15 22:45:15 INFO  PaymentFrame:145 - Amount paid :0.5
+2019-01-15 22:45:15 INFO  PaymentFrame:146 - --------------
+2019-01-15 22:45:23 INFO  ParkingSystemApp:93 - --------------
+2019-01-15 22:45:23 INFO  ParkingSystemApp:94 - <--Ticket information-->
+2019-01-15 22:45:23 INFO  ParkingSystemApp:95 - Today's date :2019/01/15
+2019-01-15 22:45:23 INFO  ParkingSystemApp:96 - Parking ticket number :4
+2019-01-15 22:45:23 INFO  ParkingSystemApp:97 - Parking Position :1
+2019-01-15 22:45:23 INFO  ParkingSystemApp:98 - Start time :22:45:16
+2019-01-15 22:45:23 INFO  ParkingSystemApp:99 - --------------
+2019-01-15 22:54:11 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:54:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:39 INFO  PaymentFrame:142 - --------------
+2019-01-15 22:54:39 INFO  PaymentFrame:143 - <--Payment information-->
+2019-01-15 22:54:39 INFO  PaymentFrame:144 - Ticket # :1
+2019-01-15 22:54:39 INFO  PaymentFrame:145 - Amount paid :2.0
+2019-01-15 22:54:39 INFO  PaymentFrame:146 - --------------
+2019-01-15 22:54:41 INFO  ParkingSystemApp:94 - --------------
+2019-01-15 22:54:41 INFO  ParkingSystemApp:95 - <--Ticket information-->
+2019-01-15 22:54:41 INFO  ParkingSystemApp:96 - Today's date :2019/01/15
+2019-01-15 22:54:41 INFO  ParkingSystemApp:97 - Parking ticket number :5
+2019-01-15 22:54:41 INFO  ParkingSystemApp:98 - Parking Position :1
+2019-01-15 22:54:41 INFO  ParkingSystemApp:99 - Start time :22:54:39
+2019-01-15 22:54:41 INFO  ParkingSystemApp:100 - --------------
+2019-01-15 22:54:47 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:54:47 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:47 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:47 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:47 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:47 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:51 INFO  PaymentFrame:142 - --------------
+2019-01-15 22:54:51 INFO  PaymentFrame:143 - <--Payment information-->
+2019-01-15 22:54:51 INFO  PaymentFrame:144 - Ticket # :1
+2019-01-15 22:54:51 INFO  PaymentFrame:145 - Amount paid :2.0
+2019-01-15 22:54:51 INFO  PaymentFrame:146 - --------------
+2019-01-15 22:54:55 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:54:55 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:55 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:55 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:55 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:54:55 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:55:00 INFO  PaymentFrame:142 - --------------
+2019-01-15 22:55:00 INFO  PaymentFrame:143 - <--Payment information-->
+2019-01-15 22:55:00 INFO  PaymentFrame:144 - Ticket # :2
+2019-01-15 22:55:00 INFO  PaymentFrame:145 - Amount paid :2.0
+2019-01-15 22:55:00 INFO  PaymentFrame:146 - --------------
+2019-01-15 22:55:03 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:55:03 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:55:03 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:55:03 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:55:03 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:55:03 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:55:11 INFO  PaymentFrame:142 - --------------
+2019-01-15 22:55:11 INFO  PaymentFrame:143 - <--Payment information-->
+2019-01-15 22:55:11 INFO  PaymentFrame:144 - Ticket # :1
+2019-01-15 22:55:11 INFO  PaymentFrame:145 - Amount paid :2.0
+2019-01-15 22:55:11 INFO  PaymentFrame:146 - --------------
+2019-01-15 22:55:14 INFO  ParkingSystemApp:94 - --------------
+2019-01-15 22:55:14 INFO  ParkingSystemApp:95 - <--Ticket information-->
+2019-01-15 22:55:14 INFO  ParkingSystemApp:96 - Today's date :2019/01/15
+2019-01-15 22:55:14 INFO  ParkingSystemApp:97 - Parking ticket number :6
+2019-01-15 22:55:14 INFO  ParkingSystemApp:98 - Parking Position :1
+2019-01-15 22:55:14 INFO  ParkingSystemApp:99 - Start time :22:55:13
+2019-01-15 22:55:14 INFO  ParkingSystemApp:100 - --------------
+2019-01-15 22:55:16 INFO  ParkingSystemApp:94 - --------------
+2019-01-15 22:55:16 INFO  ParkingSystemApp:95 - <--Ticket information-->
+2019-01-15 22:55:16 INFO  ParkingSystemApp:96 - Today's date :2019/01/15
+2019-01-15 22:55:16 INFO  ParkingSystemApp:97 - Parking ticket number :7
+2019-01-15 22:55:16 INFO  ParkingSystemApp:98 - Parking Position :2
+2019-01-15 22:55:16 INFO  ParkingSystemApp:99 - Start time :22:55:15
+2019-01-15 22:55:16 INFO  ParkingSystemApp:100 - --------------
+2019-01-15 22:56:11 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:56:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:11 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:22 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:56:22 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:22 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:22 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:22 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:56:22 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:58:57 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:58:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:58:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:58:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:58:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:58:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:59:17 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 22:59:17 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:59:17 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:59:17 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:59:17 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 22:59:17 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 23:01:57 DEBUG Schedule:31 - Root element :RateOfSchedule
+2019-01-15 23:01:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 23:01:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 23:01:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 23:01:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-15 23:01:57 DEBUG Schedule:39 - 
+Current Element :RateSchedule
+2019-01-16 21:14:23 INFO  ParkingSystemApp:94 - --------------
+2019-01-16 21:14:23 INFO  ParkingSystemApp:95 - <--Ticket information-->
+2019-01-16 21:14:23 INFO  ParkingSystemApp:96 - Today's date :2019/01/16
+2019-01-16 21:14:23 INFO  ParkingSystemApp:97 - Parking ticket number :1
+2019-01-16 21:14:23 INFO  ParkingSystemApp:98 - Parking Position :123
+2019-01-16 21:14:23 INFO  ParkingSystemApp:99 - Start time :21:14:21
+2019-01-16 21:14:23 INFO  ParkingSystemApp:100 - --------------
+2019-01-17 20:24:28 INFO  ParkingSystemApp:94 - --------------
+2019-01-17 20:24:28 INFO  ParkingSystemApp:95 - <--Ticket information-->
+2019-01-17 20:24:28 INFO  ParkingSystemApp:96 - Today's date :2019/01/17
+2019-01-17 20:24:28 INFO  ParkingSystemApp:97 - Parking ticket number :1
+2019-01-17 20:24:28 INFO  ParkingSystemApp:98 - Parking Position :123
+2019-01-17 20:24:28 INFO  ParkingSystemApp:99 - Start time :20:24:26
+2019-01-17 20:24:28 INFO  ParkingSystemApp:100 - --------------
+2019-01-17 20:24:33 DEBUG Schedule:32 - Root element :RateOfSchedule
+2019-01-17 20:24:33 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:33 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:33 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:33 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:33 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:51 INFO  PaymentFrame:140 - --------------
+2019-01-17 20:24:51 INFO  PaymentFrame:141 - <--Payment information-->
+2019-01-17 20:24:51 INFO  PaymentFrame:142 - Ticket # :1
+2019-01-17 20:24:51 INFO  PaymentFrame:143 - Amount paid :0.5
+2019-01-17 20:24:51 INFO  PaymentFrame:144 - --------------
+2019-01-17 20:24:55 DEBUG Schedule:32 - Root element :RateOfSchedule
+2019-01-17 20:24:55 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:55 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:55 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:55 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:24:55 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:12 DEBUG Schedule:32 - Root element :RateOfSchedule
+2019-01-17 20:25:12 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:12 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:12 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:12 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:12 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:57 DEBUG Schedule:32 - Root element :RateOfSchedule
+2019-01-17 20:25:57 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:57 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:57 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:57 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:25:57 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:26:14 INFO  PaymentFrame:140 - --------------
+2019-01-17 20:26:14 INFO  PaymentFrame:141 - <--Payment information-->
+2019-01-17 20:26:14 INFO  PaymentFrame:142 - Ticket # :1
+2019-01-17 20:26:14 INFO  PaymentFrame:143 - Amount paid :0.5
+2019-01-17 20:26:14 INFO  PaymentFrame:144 - --------------
+2019-01-17 20:26:16 INFO  ParkingSystemApp:94 - --------------
+2019-01-17 20:26:16 INFO  ParkingSystemApp:95 - <--Ticket information-->
+2019-01-17 20:26:16 INFO  ParkingSystemApp:96 - Today's date :2019/01/17
+2019-01-17 20:26:16 INFO  ParkingSystemApp:97 - Parking ticket number :2
+2019-01-17 20:26:16 INFO  ParkingSystemApp:98 - Parking Position :123
+2019-01-17 20:26:16 INFO  ParkingSystemApp:99 - Start time :20:26:15
+2019-01-17 20:26:16 INFO  ParkingSystemApp:100 - --------------
+2019-01-17 20:27:06 DEBUG Schedule:32 - Root element :RateOfSchedule
+2019-01-17 20:27:06 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:27:06 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:27:06 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:27:06 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:27:06 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:28:54 INFO  PaymentFrame:140 - --------------
+2019-01-17 20:28:54 INFO  PaymentFrame:141 - <--Payment information-->
+2019-01-17 20:28:54 INFO  PaymentFrame:142 - Ticket # :1
+2019-01-17 20:28:54 INFO  PaymentFrame:143 - Amount paid :0.5
+2019-01-17 20:28:54 INFO  PaymentFrame:144 - --------------
+2019-01-17 20:29:24 DEBUG Schedule:32 - Root element :RateOfSchedule
+2019-01-17 20:29:24 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:29:24 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:29:24 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:29:24 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:29:24 DEBUG Schedule:40 - 
+Current Element :RateSchedule
+2019-01-17 20:29:43 INFO  PaymentFrame:140 - --------------
+2019-01-17 20:29:43 INFO  PaymentFrame:141 - <--Payment information-->
+2019-01-17 20:29:43 INFO  PaymentFrame:142 - Ticket # :2
+2019-01-17 20:29:43 INFO  PaymentFrame:143 - Amount paid :0.5
+2019-01-17 20:29:43 INFO  PaymentFrame:144 - --------------
+2019-01-18 04:01:30 INFO  ParkingSystemApp:97 - --------------
+2019-01-18 04:01:30 INFO  ParkingSystemApp:98 - <--Ticket information-->
+2019-01-18 04:01:30 INFO  ParkingSystemApp:99 - Today's date :2019/01/17
+2019-01-18 04:01:30 INFO  ParkingSystemApp:100 - Parking ticket number :1
+2019-01-18 04:01:30 INFO  ParkingSystemApp:101 - Parking Position :1
+2019-01-18 04:01:30 INFO  ParkingSystemApp:102 - Start time :04:01:28
+2019-01-18 04:01:30 INFO  ParkingSystemApp:103 - --------------
+2019-01-18 05:43:30 INFO  ParkingSystemApp:97 - --------------
+2019-01-18 05:43:30 INFO  ParkingSystemApp:98 - <--Ticket information-->
+2019-01-18 05:43:30 INFO  ParkingSystemApp:99 - Today's date :2019/01/17
+2019-01-18 05:43:30 INFO  ParkingSystemApp:100 - Parking ticket number :1
+2019-01-18 05:43:30 INFO  ParkingSystemApp:101 - Parking Position :1
+2019-01-18 05:43:30 INFO  ParkingSystemApp:102 - Start time :05:43:29
+2019-01-18 05:43:30 INFO  ParkingSystemApp:103 - --------------
+2019-01-18 02:05:12 INFO  ParkingSystemApp:95 - --------------
+2019-01-18 02:05:12 INFO  ParkingSystemApp:96 - <--Ticket information-->
+2019-01-18 02:05:12 INFO  ParkingSystemApp:97 - Today's date :2019/01/17
+2019-01-18 02:05:12 INFO  ParkingSystemApp:98 - Parking ticket number :1
+2019-01-18 02:05:12 INFO  ParkingSystemApp:99 - Parking Position :123
+2019-01-18 02:05:12 INFO  ParkingSystemApp:100 - Start time :02:04:17
+2019-01-18 02:05:12 INFO  ParkingSystemApp:101 - --------------
